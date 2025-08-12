@@ -4,7 +4,7 @@ const CONFIG = {
   HEXO_HOME_BANNER_GREETINGS: [
     '国境の長いトンネルを抜けると雪国であった',
     '月が綺麗ですね',
-    '欢迎来到我的1博客🎉'
+    '欢迎来到我的博客🎉'
   ], // 首页大图标语文字
 
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
