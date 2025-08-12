@@ -43,13 +43,13 @@ const CONFIG = {
 
   HEXO_THEME_COLOR: '#928CEE' // 主题色配置（默认为 #928CEE）
 
-  HEO_SITE_CREATE_TIME: '2025-08-12', // 建站日期，用于计算网站运行的第几天
+  HEXO_SITE_CREATE_TIME: '2025-08-12', // 建站日期，用于计算网站运行的第几天
   
    // 底部统计面板文案
-  HEO_POST_COUNT_TITLE: '文章数:',
-  HEO_SITE_TIME_TITLE: '建站天数:',
-  HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:',
+  HEXO_POST_COUNT_TITLE: '文章数:',
+  HEXO_SITE_TIME_TITLE: '建站天数:',
+  HEXO_SITE_VISIT_TITLE: '访问量:',
+  HEXO_SITE_VISITOR_TITLE: '访客数:',
   
 }
 export default CONFIG
