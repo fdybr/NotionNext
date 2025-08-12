@@ -41,9 +41,9 @@ const CONFIG = {
   HEXO_WIDGET_DARK_MODE: true, // 夜间模式
   HEXO_WIDGET_TOC: true, // 移动端悬浮目录
 
-  HEXO_THEME_COLOR: '#928CEE' // 主题色配置（默认为 #928CEE）
+  HEXO_THEME_COLOR: '#928CEE', // 主题色配置（默认为 #928CEE）
 
-  HEXO_SITE_CREATE_TIME: '2025-08-12', // 建站日期，用于计算网站运行的第几天
+  HEXO_SITE_CREATE_TIME: '2025-08-12', // 建站日期
   
    // 底部统计面板文案
   HEXO_POST_COUNT_TITLE: '文章数:',
