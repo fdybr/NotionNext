@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://notion-next-ivory-seven-62.vercel.app/' },
+    { title: '月が綺麗ですね', url: 'https://notion-next-ivory-seven-62.vercel.app/' },
     { title: '', url: 'https://notion-next-ivory-seven-62.vercel.app/' }
   ],
 
